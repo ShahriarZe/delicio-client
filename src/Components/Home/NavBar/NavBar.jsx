@@ -1,4 +1,4 @@
-import logo from '../../../assets/deliLogo.png'
+import logo from '../../../assets/logo.png'
 
 const NavBar = () => {
     return (
@@ -20,7 +20,7 @@ const NavBar = () => {
                         <li><a>Italian</a></li>
                     </ul>
                 </div>
-               <img className='w-[200px]' src={logo} alt="" />
+               <img className='w-[150px]' src={logo} alt="" />
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
