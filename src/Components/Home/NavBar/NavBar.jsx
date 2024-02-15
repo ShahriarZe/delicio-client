@@ -11,16 +11,16 @@ const NavBar = () => {
                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                         <li><a>FastFood</a></li>
                         <li>
-                            <a>Parent</a>
+                            <a>Bangla</a>
                             <ul className="p-2">
-                                <li><a>Submenu 1</a></li>
-                                <li><a>Submenu 2</a></li>
+                                <li><a>Submenu </a></li>
+                                <li><a>Submenu </a></li>
                             </ul>
                         </li>
                         <li><a>Italian</a></li>
                     </ul>
                 </div>
-               <img className='w-[150px]' src={logo} alt="" />
+               <img className='w-[170px]' src={logo} alt="" />
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
