@@ -33,8 +33,8 @@ const Banner = () => {
         <SwiperSlide>Image 3</SwiperSlide>
         <SwiperSlide>Image 4</SwiperSlide>
         <SwiperSlide>Image 5</SwiperSlide>
-        <SwiperSlide>Slide 6</SwiperSlide>
-        <SwiperSlide>Slide 7</SwiperSlide>
+        <SwiperSlide>Image 6</SwiperSlide>
+        <SwiperSlide>Image 7</SwiperSlide>
         <SwiperSlide>Slide 8</SwiperSlide>
         <SwiperSlide>Slide 9</SwiperSlide>
       </Swiper>
