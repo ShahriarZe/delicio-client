@@ -13,7 +13,7 @@ const NavBar = () => {
                         <li>
                             <a>Bangla</a>
                             <ul className="p-2">
-                                <li><a>Submenu </a></li>
+                                <li><a>Food1 </a></li>
                                 <li><a>Submenu </a></li>
                             </ul>
                         </li>
