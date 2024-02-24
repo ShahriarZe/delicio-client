@@ -14,7 +14,7 @@ const NavBar = () => {
                             <a>Bangla</a>
                             <ul className="p-2">
                                 <li><a>Food1 </a></li>
-                                <li><a>Food2 </a></li>
+                                <li><a>Bangla  </a></li>
                             </ul>
                         </li>
                         <li><a>Italian</a></li>
