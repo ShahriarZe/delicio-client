@@ -26,10 +26,10 @@ const Banner = () => {
           delay: 4500,
           disableOnInteraction: false,
         }}
-        pagination={{
-          clickable: true,
-        }}
-        navigation={true}
+        // pagination={{
+        //   clickable: true,
+        // }}
+        // navigation={true}
         modules={[Autoplay, Pagination, Navigation]}
         className="mySwiper"
       >
