@@ -18,7 +18,7 @@ import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 
 const Banner = () => {
     return (
-        <div>
+        <div className='container mx-auto min-h-screen'>
              <Swiper
         spaceBetween={30}
         centeredSlides={true}
@@ -38,11 +38,11 @@ const Banner = () => {
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src={banner2} alt="" />
+          <img src={banner3} alt="" />
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src={banner3} alt="" />
+          <img src={banner2} alt="" />
         </SwiperSlide>
         <SwiperSlide>
 
