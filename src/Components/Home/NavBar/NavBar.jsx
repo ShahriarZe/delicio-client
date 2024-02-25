@@ -20,7 +20,7 @@ const NavBar = () => {
                         <li><a>Item 3</a></li>
                     </ul>
                 </div>
-                <img className='w-3/12 hidden lg:block' src={logo} alt="" />
+                <img className='w-[120px] hidden lg:block' src={logo} alt="logo" />
             </div>
             
             <div className="navbar-end">
